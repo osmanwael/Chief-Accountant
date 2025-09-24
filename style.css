@@ -80,8 +80,8 @@ body {
 .hero-content h1 {
     font-size: 3em;
     margin-top: 5rem;
+    color: #fff;
 }
-
 .hero-content p {
     font-size: 1.2rem;
     margin-top: -1rem;
@@ -275,3 +275,4 @@ body {
     }
 
 }
+
